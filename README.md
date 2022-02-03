@@ -1,6 +1,10 @@
 <h1>Projeto final da diciplina de programação 3.</h1>
 
 <h3>Para compilar na sua máquina, é necessário ter um ambiente java instalado</h3>
+
+<p>Basicamente, o projeto é um gerenciador de Alunos de uma escola qualquer.</p>
+<p>Com ele você pode inserir um novo aluno; excluir um aluno já cadastrado e modificar um aluno.</p>
+
 <p>Para baixar o compilador java acesse <a href="https://www.oracle.com/java/technologies/downloads/">esse link</a></p>
 <p>Depois de instalado o jdk, basta configurar o ambiente no seu computador. </p>
 <p>Acesse <a href="https://confluence.atlassian.com/confbr1/configurando-a-variavel-java_home-no-windows-933709538.html">esse link</a></p>
