@@ -35,7 +35,7 @@ public class App {
                 escolha = scan.nextInt();
                 break;
             }
-            scan.nextLine();
+            scan.nextLine(); // limpa o buffer.
 
             switch (escolha) {
                 case 1:
