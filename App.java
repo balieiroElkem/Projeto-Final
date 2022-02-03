@@ -9,6 +9,20 @@ public class App {
         Scanner scan = new Scanner(System.in);
         Gerencia diretoria = new Coord();
 
+
+
+        System.out.println("|-------------------------------------------------|");
+        System.out.println("|                                                 |");
+        System.out.println("|                                                 |");
+        System.out.println("|                  BEM-VINDO(A)                   |");
+        System.out.println("|            AO GERENCIADOR DE ALUNOS             |");
+        System.out.println("|                                                 |");
+        System.out.println("|                                                 |");
+        System.out.println("|                                                 |");
+        System.out.println("|-------------------------------------------------|");
+        
+        
+
         int escolha = 0;
         do {
             System.out.println("1 - Inserir Novo Aluno");
