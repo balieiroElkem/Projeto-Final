@@ -112,7 +112,12 @@ public class App {
                     break;
                 }
 
-                diretoria.modificaAluno(infModifica, op, dado);
+                if (diretoria.modificaAluno(infModifica, op, dado)) {
+                    System.out.println("\nModificado com sucesso.\n");
+                } else {
+                    System.out.println("\nModificação não realizada.\n");
+                }
+
                 break;
             
             case 3:
