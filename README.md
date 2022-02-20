@@ -15,3 +15,6 @@
 <p>Para rodar o programa, basta digitar:</p>
 
 <code>java -cp .\bin\ App</code>
+
+
+<code>winget upgrade --all</code>
